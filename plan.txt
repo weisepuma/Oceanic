@@ -1,4 +1,4 @@
-OceanWays Plan (Revised)
+Oceanic Plan 
 
 1. Research & Business Rules
 - Study species and migration data
@@ -26,7 +26,7 @@ OceanWays Plan (Revised)
 - Set up infrastructure and development tools
 - Implement basic functionality and core components
 - Build a basic user interface
-- Connect basic payment/subscription system (e.g., Patreon)
+
 
 5. Data Integration
 - Process whale movement data into a format for visualization
@@ -44,5 +44,7 @@ OceanWays Plan (Revised)
 - Promote adoption campaigns and educational content
 - Monitor usage and fix issues quickly
 
+8. Monetization
+Connect basic payment/subscription system (e.g. Patreon)
 
-вы великолепны
+
