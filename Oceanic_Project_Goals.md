@@ -1,4 +1,4 @@
-# Oceanic Project Goals
+# 🐋 Oceanic Project Goals
 
 1. Ensure the app does not harm living marine creatures.
 2. Generate revenue streams that directly support whale conservation funds.
