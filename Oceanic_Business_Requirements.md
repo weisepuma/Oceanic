@@ -1,4 +1,4 @@
-# Oceanic Business Requirements
+# 🌊 Oceanic Business Requirements 
 
 1. The app  integrates historical whale migration data from reliable sources.
 2. Payment and subscription systems must be secure and transparent to support conservation funds (e.g., Patreon, Stripe, or other gateways).
